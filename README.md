@@ -34,7 +34,5 @@ I am always open to networking and collaboration. Feel free to reach out to me t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhip05&layout=compact&hide=html,css&theme=radical) 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nidhip05&theme=radical)
 
-### 🔥 Contributions Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nidhip05&theme=react-light&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF)
 
 Thank you for visiting my GitHub profile! Let's create amazing user experiences together! 😊
