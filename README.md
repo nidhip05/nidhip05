@@ -31,8 +31,9 @@ I am always open to networking and collaboration. Feel free to reach out to me t
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhip05&layout=compact&hide=html,css&theme=radical) 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nidhip05&theme=radical)
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhip05&layout=compact&theme=radical&bg_color=ffffff&border_color=000000&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" alt="Top Languages" style="width: 48%; border: 1px solid black;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhip05&theme=radical" alt="GitHub Streak Stats" style="width: 48%;">
+</div>
 
 Thank you for visiting my GitHub profile! Let's create amazing user experiences together! 😊
