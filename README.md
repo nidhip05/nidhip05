@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nidhi Patel
 
-### A passionate Software Developer
+### A Software Developer
 Welcome to my GitHub profile! I am dedicated to creating elegant and responsive web interfaces. My primary focus is on frontend development, leveraging modern technologies and best practices to build engaging user experiences.
 
 ## 🚀 Technical Skill: 
