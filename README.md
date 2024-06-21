@@ -29,3 +29,7 @@ I am always open to networking and collaboration. Feel free to reach out to me t
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=zustand&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhip05&layout=compact&hide=html,css&theme=radical)
+
+Thank you for visiting my GitHub profile! Let's create amazing user experiences together! 😊
