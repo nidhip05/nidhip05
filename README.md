@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I am dedicated to creating elegant and responsive 
 - **Frameworks**: React.js, Vue.js
 - **State Management**: Redux, Zustand
 - **Other Tools**: Git, Webpack, Babel, npm
-- 
+
 ## 📚 Currently Learning:
-I'm committed to ongoing learning and skill development. Currently, I am:
-- Deepening my understanding of the React and Typescript ecosystem.
-- Exploring advanced patterns in state management.
-- Enhancing my knowledge of performance optimization in web development.
-- 
+I'm currently focused on:
+- Expanding my expertise in the React and TypeScript ecosystems
+- Aiming to master advanced state management techniques.
+- Delving deeper into optimizing web performance.
+
 ## 📫 Let's Connect:
 I am always open to networking and collaboration. Feel free to reach out to me through:
 - **Email**: [nidhip5001@gmail.com](mailto:nidhip5001@gmail.com)
