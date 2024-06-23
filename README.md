@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am dedicated to creating elegant and responsive 
 
 ## 🚀 Technical Skill: 
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React.js, Vue.js
+- **Frameworks**: React.js, Vue.js, Nextjs
 - **State Management**: Redux, Zustand
 - **Other Tools**: Git, Webpack, Babel, npm
 
