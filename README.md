@@ -19,6 +19,7 @@ I'm currently focused on:
 I am always open to networking and collaboration. Feel free to reach out to me through:
 - **Email**: [nidhip5001@gmail.com](mailto:nidhip5001@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/nidhi-patel-3078371b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nidhi-patel-3078371b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Portfolio**: [https://nidhi-portfolio-teal.vercel.app](https://nidhi-portfolio-teal.vercel.app)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
