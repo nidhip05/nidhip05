@@ -18,7 +18,7 @@ I'm currently focused on:
 ## 📫 Let's Connect:
 I am always open to networking and collaboration. Feel free to reach out to me through:
 - **Email**: [nidhip5001@gmail.com](mailto:nidhip5001@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/nidhi-patel-3078371b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/nidhi-patel-3078371b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **LinkedIn**: [https://www.linkedin.com/in/nidhi-patel-3078371b3](https://www.linkedin.com/in/nidhi-patel-3078371b3)
 - **Portfolio**: [https://nidhi-portfolio-teal.vercel.app](https://nidhi-portfolio-teal.vercel.app)
 
 ## Languages and Tools:
