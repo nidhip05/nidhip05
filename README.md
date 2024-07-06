@@ -22,9 +22,8 @@ Welcome to my GitHub profile! I specialize in creating smooth and user-friendly 
 
 ## 📚 Currently Learning :
 I'm currently focused on:
-- Expanding my expertise in the React and TypeScript ecosystems
-- Aiming to master advanced state management techniques.
-- Delving deeper into optimizing web performance.
+- Learning TypeScript ecosystem and Redux state management
+- Delving deeper into optimizing web performance
 
 ## 📫 Let's Connect :
 I am always open to networking and collaboration. Feel free to reach out to me through:
