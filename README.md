@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nidhi Patel
 
 ### A Frontend Developer
-Welcome to my GitHub profile! I specialize in creating smooth and user-friendly web interfaces, focusing on frontend development. With a solid background in building professional websites and applications, I'm skilled in React, Next, Vue, JavaScript, HTML, CSS, and more. I love learning and have worked on over 11 projects, aiming to stay updated with the latest tech trends.
+Welcome to my GitHub profile! With a solid background in building professional websites and applications, I'm skilled in React, Next, Vue, JavaScript, HTML, CSS, and more. I love learning and have worked on over 11 projects, aiming to stay updated with the latest tech trends.
 
 ## 🚀 Technical Skill : 
 - **Languages**: HTML, CSS, JavaScript
@@ -10,15 +10,12 @@ Welcome to my GitHub profile! I specialize in creating smooth and user-friendly 
 - **Other Tools**: Git, Webpack, Babel, npm
 
  ## 💼 Responsibilities :
+- Work closely with UI/UX designers to ensure feasibility of the design
 - Build reusable components and dynamic user interfaces 
-- Ensured that website works well in all devices
-- Developed clean and efficient code to ensure best practice
-- Worked closely with UI/UX designers to ensure feasibility of the design
-- Debugged and resolved bugs
+- Ensure that website works well in all devices
+- Develop clean and efficient code to ensure best practice
 - Build seo friendly website and optimized application performance
-- Perform unit testing
 - Participate in deployment process to ensure seamless production release
-- Always learning to stay ahead in frontend technologies
 
 ## 📚 Currently Learning :
 I'm currently focused on:
