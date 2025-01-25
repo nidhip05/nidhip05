@@ -5,8 +5,8 @@ Welcome to my GitHub profile! With a solid background in building professional w
 
 ## 🚀 Technical Skill : 
 - **Languages**: HTML, CSS, JavaScript
-- **Frontend Tools**: Vue, Nuxt, React, Next
-- **State Management**: Vuex, Zustand
+- **Frontend Tools**: React, Next.js
+- **State Management**: Redux, Zustand
 - **Other Tools**: Git, Webpack, Babel, npm
 
  ## 💼 Responsibilities :
